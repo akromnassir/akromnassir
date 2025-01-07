@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Djan and I'm AI Researcher & Python Developer from somewhere </h2>
+<h2 align="left">"Hi 👋! My name is Djan, and I'm an AI Researcher and Python Developer from somewhere." </h2>
 
 ###
 
